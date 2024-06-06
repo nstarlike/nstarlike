@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 [My Profile https://nstarlike.github.io](https://nstarlike.github.io/)
-Contact me through Issues in this repository.
-Issues [](/../../issues)
+<br>Contact me through Issues in this repository.
+<br>[Issues](/../../issues)
 
 <!--
 **nstarlike/nstarlike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
